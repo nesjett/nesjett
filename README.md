@@ -76,11 +76,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Erics Journey, a C++ game made from scratch](https://www.youtube.com/watch?v=VvmjjKnLVis)
-- [UE Online Multiplayer Interactions](https://www.youtube.com/watch?v=OliUAvey2TE)
-- [Unreal Engine Crawling system (prone)](https://www.youtube.com/watch?v=Nf-1ZlxaScM)
-- [Unreal Engine 4 Scoreboard, Halo like Medal System, Kills, & Scoring Announcements](https://www.youtube.com/watch?v=B9IFyUWHf6w)
-- [Unreal Engine Building System for 4.20+](https://www.youtube.com/watch?v=Oz9Dfgl3gYI)
+- [Angular 8 + Redux for beginners](https://nsabater.com/angular-8-redux-for-beginners)
+- [The Eric’s Journey, a C++ game made from scratch](https://nsabater.com/the-erics-journey-a-c-game-made-from-scratch)
+- [Living in Hong Kong, travelling in Asia](https://nsabater.com/living-in-hong-kong-travelling-in-asia)
+- [CryptoPong, a Java online multiplayer pong game](https://nsabater.com/cryptopong-a-java-online-multiplayer-pong-game)
+- [A simple HTTP server & client for begginers](https://nsabater.com/a-simple-http-server-client-for-begginers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
