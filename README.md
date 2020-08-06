@@ -70,6 +70,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Erics Journey, a C++ game made from scratch](https://www.youtube.com/watch?v=VvmjjKnLVis)
+- [UE Online Multiplayer Interactions](https://www.youtube.com/watch?v=OliUAvey2TE)
+- [Unreal Engine Crawling system (prone)](https://www.youtube.com/watch?v=Nf-1ZlxaScM)
+- [Unreal Engine 4 Scoreboard, Halo like Medal System, Kills, & Scoring Announcements](https://www.youtube.com/watch?v=B9IFyUWHf6w)
+- [Unreal Engine Building System for 4.20+](https://www.youtube.com/watch?v=Oz9Dfgl3gYI)
 <!-- YOUTUBE:END -->
 
 ---
