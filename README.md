@@ -6,7 +6,7 @@
 - 👯 I’m open to new I+D+I collaborations
 - 🥅 2020 Goals: Find smarter usages of NLP in web services
 
-<br />
+
 ### Connect with me:
 
 [<img align="left" alt="nsabater.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -84,6 +84,6 @@
 
 [website]: https://nsabater.com
 [youtube]: http://www.youtube.com/c/NestorSabater
-[instagram]: https://www.instagram.com/unrealengine.showdown/
+[instagram]: https://www.instagram.com/nsabater.dev/
 [linkedin]: https://es.linkedin.com/in/nestorsabater
 [marketplace]: https://www.unrealengine.com/marketplace/en-US/assets?count=20&keywords=nestor%20sabater&sortBy=relevancy&sortDir=DESC&start=0
