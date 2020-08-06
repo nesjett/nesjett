@@ -76,6 +76,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 8 + Redux for beginners](https://nsabater.com/angular-8-redux-for-beginners)
+- [The Eric’s Journey, a C++ game made from scratch](https://nsabater.com/the-erics-journey-a-c-game-made-from-scratch)
+- [Living in Hong Kong, travelling in Asia](https://nsabater.com/living-in-hong-kong-travelling-in-asia)
+- [CryptoPong, a Java online multiplayer pong game](https://nsabater.com/cryptopong-a-java-online-multiplayer-pong-game)
+- [A simple HTTP server & client for begginers](https://nsabater.com/a-simple-http-server-client-for-begginers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
