@@ -79,7 +79,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts (AFFECTED BY OVH STRASBOURG INCIDENT, will be up and running as soon as they provide new servers)
 <!-- BLOG-POST-LIST:START -->
 - [Angular 8 + Redux for beginners](https://nsabater.com/angular-8-redux-for-beginners)
 - [The Eric’s Journey, a C++ game made from scratch](https://nsabater.com/the-erics-journey-a-c-game-made-from-scratch)
