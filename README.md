@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a new [Unreal Engine game framework][marketplace]!
 - 🌱 I’m currently learning more about Machine and Deep learning
 - 👯 I’m open to new I+D+I collaborations
-- 🥅 2020 Goals: Find smarter usages of NLP in web services
+- 🥅 2021 Goals: Find smarter usages of NLP in web services (still)
 
 
 ### Connect with me:
