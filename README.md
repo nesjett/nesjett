@@ -79,7 +79,7 @@
 
 ---
 
-### 📕 Latest Blog Posts (AFFECTED BY OVH STRASBOURG INCIDENT, will be up and running as soon as they provide new servers)
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [React native mapbox custom UserLocation](https://nsabater.com/react-native-mapboxgl-custom-userlocation)
 - [Angular 8 + Redux for beginners](https://nsabater.com/angular-8-redux-for-beginners)
