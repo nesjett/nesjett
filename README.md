@@ -71,11 +71,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Smart Tech KOREA 2022](https://nsabater.com/smart-tech-korea-2022)
 - [AWS CLI credentials from Docker Swarm secrets](https://nsabater.com/automating-aws-cli-credentials-from-docker-swarm-secret)
 - [React native mapbox custom UserLocation](https://nsabater.com/react-native-mapboxgl-custom-userlocation)
 - [Angular 8 + Redux for beginners](https://nsabater.com/angular-8-redux-for-beginners)
 - [The Eric’s Journey, a C++ game made from scratch](https://nsabater.com/the-erics-journey-a-c-game-made-from-scratch)
-- [Living in Hong Kong, travelling in Asia](https://nsabater.com/living-in-hong-kong-travelling-in-asia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
