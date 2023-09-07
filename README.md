@@ -80,8 +80,6 @@
 
 ---
 
-<img align="left" alt="nesjett's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nesjett&count_private=true&show_icons=true&hide_border=true&hide=stars" />
-
 [website]: https://nsabater.com
 [youtube]: http://www.youtube.com/c/NestorSabater
 [instagram]: https://www.instagram.com/nsabater.dev/
