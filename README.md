@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a new [Unreal Engine game framework][marketplace]!
 - 🌱 I’m currently learning more about Machine and Deep learning
 - 👯 I’m open to new I+D+I collaborations
-- 🥅 2023 Goals: Investigate in dApps and their applications
+- 🥅 2024 Goals: Investigate in dApps and their applications
 
 
 ### Connect with me:
