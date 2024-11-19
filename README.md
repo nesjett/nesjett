@@ -71,11 +71,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [No one tells Angular’s canMatch url segments is empty!](https://nsabater.com/angulars-canmatch-url)
 - [Angular error handlers + remote logging](https://nsabater.com/angular-error-handlers-remote-logging)
 - [PrimeNG drag and drop disable mouse cursor](https://nsabater.com/disable-primeng-drag-and-drop-mouse-cursor)
 - [Smart Tech KOREA 2022](https://nsabater.com/smart-tech-korea-2022)
 - [AWS CLI credentials from Docker Swarm secrets](https://nsabater.com/automating-aws-cli-credentials-from-docker-swarm-secret)
-- [React native mapbox custom UserLocation](https://nsabater.com/react-native-mapboxgl-custom-userlocation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
