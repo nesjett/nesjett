@@ -1,8 +1,8 @@
 ### Hi there, I'm Nestor Sabater - aka [nesjett][website] 👋
 
-## I'm a Full-stack Engineer with focus on UI/UX and gamification!
+## I'm a Frontend Software Engineer!
 - 🔭 I’m currently working on a new [Unreal Engine game framework][marketplace]!
-- 🌱 I’m currently learning more about Machine and Deep learning
+- 🌱 I’m doing a Masters Degree in AI
 - 👯 I’m open to new I+D+I collaborations
 - 🥅 2024 Goals: Investigate in dApps and their applications
 
