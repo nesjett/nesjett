@@ -1,10 +1,10 @@
 ### Hi there, I'm Nestor Sabater - aka [nesjett][website] 👋
 
 ## I'm a Frontend Software Engineer!
-- 🔭 I’m currently working on a new [Unreal Engine game framework][marketplace]!
+- 🔭 I’m currently focusing on contributing more to @Angular and @Nx
 - 🌱 I’m doing a Masters Degree in AI
 - 👯 I’m open to new I+D+I collaborations
-- 🥅 2024 Goals: Investigate in dApps and their applications
+- 🥅 2025 Goals: Find better applications of AI to the real world
 
 
 ### Connect with me:
