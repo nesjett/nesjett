@@ -1,10 +1,14 @@
-### Hi there, I'm Nestor Sabater - aka [nesjett][website] 👋
+### Hi there, I'm Néstor Sabater - aka [nesjett][website] 👋  
 
-## I'm a Frontend Software Engineer!
-- 🔭 I’m currently focusing on contributing more to @Angular and @Nx
-- 🌱 I’m doing a Masters Degree in AI
-- 👯 I’m open to new I+D+I collaborations
-- 🥅 2025 Goals: Find better applications of AI to the real world
+💻 **Senior Frontend Engineer** specialized in building performant, scalable, and delightful web applications.  
+⚡ Passionate about **Angular, Nx, AI applications, and Web Performance**.  
+🚀 Open-source contributor and tech blogger at [nsabater.com][website].  
+
+- 🔭 Currently contributing to **@Angular** and **@Nx** ecosystems  
+- 🌱 Pursuing a **Master’s Degree in Artificial Intelligence**  
+- 👯 Co-founder of Firebus Tech Hub  
+- 🥅 2025 Goals: Apply AI to create **real-world, impactful solutions**  
+
 
 
 ### Connect with me:
@@ -16,21 +20,30 @@
 
 <br />
 
-### Master skills:  
- 
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+### 📊 GitHub Stats
+![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nesjett&show_icons=true&theme=radical)
 
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+### 🚀 Top Technologies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesjett&layout=compact&theme=radical)
 
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+### 🛠 Tech Stack
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
+
+**Other Knowledge:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=fff)
+
 <br /><br />
   
 ### Other knowledge:  <br /><br />
