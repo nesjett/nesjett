@@ -6,10 +6,10 @@
 
 <br /><br />
 
-- 🔭 Currently contributing to **@Angular** and **@Nx** ecosystems  
-- 🌱 Pursuing a **Master’s Degree in Artificial Intelligence**  
-- 👯 Co-founder of Firebus Tech Hub  
-- 🥅 2025 Goals: Apply AI to create **real-world, impactful solutions**  
+🔭 Currently contributing to **@Angular** and **@Nx** ecosystems  
+🌱 Pursuing a **Master’s Degree in Artificial Intelligence**  
+👯 Co-founder of Firebus Tech Hub  
+🥅 2025 Goals: Apply AI to create **real-world, impactful solutions**  
 
 
 ### 🛠 Tech Stack
