@@ -4,7 +4,7 @@
 ⚡ Passionate about **Angular, Nx, AI applications, and Web Performance**.  
 🚀 Open-source contributor and tech blogger at [nsabater.com][website].  
 
-<br /><br />
+<br />
 
 🔭 Currently contributing to **@Angular** and **@Nx** ecosystems  
 🌱 Pursuing a **Master’s Degree in Artificial Intelligence**  
