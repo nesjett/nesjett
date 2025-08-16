@@ -11,7 +11,8 @@
 👯 Co-founder of Firebus Tech Hub  
 🥅 2025 Goals: Apply AI to create **real-world, impactful solutions**  
 
-<br />
+<br /> 
+
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -21,8 +22,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
 
-<br />
+<br /> 
+
 **Other Knowledge:**  
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)
