@@ -10,16 +10,6 @@
 - 🥅 2025 Goals: Apply AI to create **real-world, impactful solutions**  
 
 
-
-### Connect with me:
-
-[<img align="left" alt="nsabater.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Nestor Sabater | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Nestor Sabater | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Nestor Sabater | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -37,12 +27,16 @@
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=fff)
 
 <br /><br />
-  
+
+### 🌍 Connect with me  
+
+[![Website](https://img.shields.io/badge/🌐%20Website-nsabater.com-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)][website]  
+[![YouTube](https://img.shields.io/badge/YouTube-Nestor%20Sabater-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nestorsabater-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]  
+[![Instagram](https://img.shields.io/badge/Instagram-@nsabater.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]  
 
 
-
-<br />
-<br />
+<br /><br />
 
 ---
 
