@@ -1,8 +1,10 @@
 ### Hi there, I'm Néstor Sabater - aka [nesjett][website] 👋  
 
-💻 **Senior Frontend Engineer** specialized in building performant, scalable, and delightful web applications.  
+💻 **Senior Software Engineer** specialized in building performant, scalable, and delightful web applications.  
 ⚡ Passionate about **Angular, Nx, AI applications, and Web Performance**.  
 🚀 Open-source contributor and tech blogger at [nsabater.com][website].  
+
+<br /><br />
 
 - 🔭 Currently contributing to **@Angular** and **@Nx** ecosystems  
 - 🌱 Pursuing a **Master’s Degree in Artificial Intelligence**  
