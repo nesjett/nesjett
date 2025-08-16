@@ -20,14 +20,6 @@
 
 <br />
 
-
-### 📊 GitHub Stats
-![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nesjett&show_icons=true&theme=radical)
-
-### 🚀 Top Technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesjett&layout=compact&theme=radical)
-
-
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
