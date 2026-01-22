@@ -1,15 +1,15 @@
 ### Hi there, I'm Néstor Sabater - aka [nesjett][website] 👋  
 
 💻 **Senior Software Engineer** specialized in building performant, scalable, and delightful web applications.  
-⚡ Passionate about **Angular, Nx, AI applications, and Web Performance**.  
-🚀 Open-source contributor and tech blogger at [nsabater.com][website].  
+⚡ Passionate about **Angular, Nx, AI applications, and Developer tooling**.  
+🚀 Open-source contributor (sometimes) and free time blogger [nsabater.com][website].  
 
 <br />
 
 🔭 Currently contributing to **@Angular** and **@Nx** ecosystems  
 🌱 Pursuing a **Master’s Degree in Artificial Intelligence**  
 👯 Co-founder of Firebus Tech Hub  
-🥅 2025 Goals: Apply AI to create **real-world, impactful solutions**  
+🥅 Master in AI by 2026  
 
 <br /> 
 
