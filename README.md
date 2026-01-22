@@ -1,15 +1,17 @@
 ### Hi there, I'm Néstor Sabater - aka [nesjett][website] 👋  
 
-💻 **Senior Software Engineer** specialized in building performant, scalable, and delightful web applications.  
-⚡ Passionate about **Angular, Nx, AI applications, and Developer tooling**.  
-🚀 Open-source contributor (sometimes) and free time blogger [nsabater.com][website].  
+💻 **Software Engineer** | 🎓 **Master's in Artificial Intelligence**  
+🏗️ Specialized in **software architecture**, building scalable applications, and enhancing **developer experience**.  
+⚡ Passionate about **project health**, **modern tooling**, and crafting delightful development workflows.  
+🚀 Open-source contributor and entepreneur.  
 
 <br />
 
-🔭 Currently contributing to **@Angular** and **@Nx** ecosystems  
-🌱 Pursuing a **Master’s Degree in Artificial Intelligence**  
-👯 Co-founder of Firebus Tech Hub  
-🥅 Master in AI by 2026  
+🔭 Contributing to **@Angular** and **@Nx** ecosystems  
+🛠️ Obsessed with **developer tooling** and automating excellence  
+🏛️ Focused on **software architecture** and **engineering best practices**  
+🤖 Applying **AI/ML** to improve development workflows and user experiences  
+👯 Co-founder of Firebus Tech Hub and [quantiq-labs.com][Quantiq Labs]
 
 <br /> 
 
@@ -35,6 +37,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=fff)
+
+<br />
+
+**Diverse Tech Experience:**  
+I've shipped production software across virtually every domain in tech—from **hardcore backend systems and server implementations** to **immersive experiences** (AR/VR/XR), **native mobile applications**, **video game development**, and everything in between. Whether it's architecting scalable cloud services (AWS/GCP), building performant web applications, crafting interactive 3D experiences, or developing mobile solutions, I thrive at the intersection of **creative innovation** and **solid engineering**.
 
 <br />
 
