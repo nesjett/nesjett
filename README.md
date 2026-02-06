@@ -11,7 +11,7 @@
 🛠️ Obsessed with **developer tooling** and automating excellence  
 🏛️ Focused on **software architecture** and **engineering best practices**  
 🤖 Applying **AI/ML** to improve development workflows and user experiences  
-👯 Co-founder of Firebus Tech Hub and [quantiq-labs.com][Quantiq Labs]
+👯 Co-founder of Firebus Tech Hub and [Quantiq Labs](quantiq-labs.com)
 
 <br /> 
 
