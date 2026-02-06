@@ -7,7 +7,7 @@
 
 <br />
 
-🔭 Contributing to **@Angular** and **@Nx** ecosystems  
+🔭 Contributing to **@Angular**, **@Nx** and **Hugging Face** ecosystems  
 🛠️ Obsessed with **developer tooling** and automating excellence  
 🏛️ Focused on **software architecture** and **engineering best practices**  
 🤖 Applying **AI/ML** to improve development workflows and user experiences  
