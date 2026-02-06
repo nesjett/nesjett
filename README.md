@@ -14,9 +14,9 @@
 👯 Co-founder of Firebus Tech Hub and [Quantiq Labs](quantiq-labs.com)
 
 <br /> 
-### Open Source / Free software
-- [Open Fountain](https://openfountain.org)
-- [Agent Config Manager](https://github.com/nesjett/agent-config-manager)
+### Open Source / Free software  
+- [Open Fountain](https://openfountain.org)  
+- [Agent Config Manager](https://github.com/nesjett/agent-config-manager)  
 - More will be disclosed soon!
 
 <br /> 
