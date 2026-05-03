@@ -17,7 +17,8 @@
 
 ### My initiatives   
 - [Open Fountain](https://openfountain.org)   
-- [Agent Config Manager](https://github.com/nesjett/agent-config-manager)   
+- [Agent Config Manager](https://github.com/nesjett/agent-config-manager)
+- [GitHub CI debugger / viewer](https://github.com/nesjett/ci-stats/)  
 - More will be disclosed soon!
 
 <br /> 
