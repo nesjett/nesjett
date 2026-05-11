@@ -68,11 +68,11 @@ I've shipped production software across virtually every domain in tech—from **
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Building system usage timelapse for Unreal Engine 4](https://www.youtube.com/watch?v=f0bwPdpwI0c)
-- [Crawling System update for Unreal Engine 4](https://www.youtube.com/watch?v=22P4r7rWidc)
-- [The Erics Journey, a C++ game made from scratch](https://www.youtube.com/watch?v=VvmjjKnLVis)
-- [UE Online Multiplayer Interactions](https://www.youtube.com/watch?v=OliUAvey2TE)
-- [NASA Space Apps Challenge 2019 Hong Kong](https://www.youtube.com/watch?v=2ytr35p4DNo)
+- [5 UE Crawling System Caveats](https://www.youtube.com/watch?v=T_2w123k9PU)
+- [6 UE Crawling System Creating a custom route blueprint](https://www.youtube.com/watch?v=qxr1iqxi3w8)
+- [4 UE Crawling System Ground alignment](https://www.youtube.com/watch?v=2oDSZAjX4og)
+- [3 UE Crawling System Creating a complex route](https://www.youtube.com/watch?v=V7ytYWg_50g)
+- [2 UE Crawling System Changing route parameters](https://www.youtube.com/watch?v=SS86yASR73g)
 <!-- YOUTUBE:END -->
 
 ---
